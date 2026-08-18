@@ -1,6 +1,6 @@
 # Arctura Family Foundation — Ecosystem Research
 
-**Research date:** 18 August 2026. This is a vendor-diligence shortlist, not an endorsement, service-availability confirmation, procurement award, or operational guarantee.
+**Research date:** 18 August 2026. “Arctura Family Foundation” is a working name only; the legal entity is pending creation and final-name selection. This is a vendor-diligence shortlist, not an endorsement, service-availability confirmation, procurement award, or operational guarantee.
 
 ## Food-Recovery Coordination
 

@@ -1,6 +1,6 @@
 # Arctura Family Foundation — Finance and Contribution Rails
 
-**Research date:** 18 August 2026. This is operating analysis, not legal, tax, banking, or merchant-underwriting advice.
+**Research date:** 18 August 2026. “Arctura Family Foundation” is a working name only; the legal entity is pending creation and final-name selection. This is operating analysis, not legal, tax, banking, or merchant-underwriting advice.
 
 ## Contribution Rail
 
