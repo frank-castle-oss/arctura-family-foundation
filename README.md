@@ -8,7 +8,7 @@ This repository shares the public operating model, implementation approach, and 
 
 Arctura is designed as a **local-cell operating model**. Before a city activates public food-access delivery, it must establish responsible governance, verified local partners, food-safety controls, funded fulfillment capacity, and a clear path for exceptions.
 
-The public platform currently includes a transparent partnership-formation site, partner and recipient-referral intake workflows, a funder and sponsor inquiry flow, an editorial layer, and local planning pages for Los Angeles, Austin, and Denver. The city pages are **planning pages**. They do not represent active delivery coverage, real-time inventory, or a promise of service.
+The public platform currently includes a transparent partnership-formation site, partner and recipient-referral intake workflows, a funder and sponsor inquiry flow, an editorial layer, and local planning pages for Los Angeles, Austin, Denver, and Colorado Springs. Colorado Springs is the proposed first **local-listening geography**, not a live pilot. Every city page is a **planning page**; none represents active delivery coverage, real-time inventory, or a promise of service.
 
 | Area | Public status |
 | --- | --- |
@@ -47,6 +47,7 @@ Arctura keeps financial flows distinct. A paid digital product or service is a c
 | `references/` | Integration notes that do not contain credentials |
 | `research-*.md` | Public-facing market, vendor, and payment-rail research records |
 | `arctura-*-*.md` | Operating charter and staged operating-stack documentation |
+| `docs/colorado-springs-listening-brief.md` | Cited, consent-first local-listening map; not an outreach plan, partnership announcement, or launch authorization |
 
 ## Local development
 
