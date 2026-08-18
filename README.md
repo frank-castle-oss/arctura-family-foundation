@@ -49,6 +49,7 @@ Arctura keeps financial flows distinct. A paid digital product or service is a c
 | `arctura-*-*.md` | Operating charter and staged operating-stack documentation |
 | `docs/colorado-springs-listening-brief.md` | Cited, consent-first local-listening map; not an outreach plan, partnership announcement, or launch authorization |
 | `docs/service-desk-protocol.md` | Human-supervised inbound and outreach protocol; no connected mailbox, phone line, auto-dialer, automated send, or mass-contact authority |
+| `docs/inkbox-vapi-service-desk-architecture.md` | Proposed Inkbox.ai-and-Vapi profile plus provider-neutral safeguards; no identity, number, mailbox, recording, transcript retention, or outbound channel is active |
 
 ## Local development
 
