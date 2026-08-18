@@ -21,6 +21,7 @@ The review covers the complete published Markdown inventory:
 | `docs/operating-charter.md` | Working-name and pending-creation disclosure present. |
 | `docs/operating-stack.md` | Working-name and pending-creation disclosure present. |
 | `docs/payment-rails-research.md` | Working-name and pending-creation disclosure present. |
+| `docs/public-document-audit.md` | Working-name and pending-creation disclosure present. |
 | `docs/technical-architecture.md` | Does not use the foundation name and makes no legal-formation claim. |
 | `docs/vendor-scorecard.md` | Working-name and pending-creation disclosure present. |
 | `docs/visual-rights-standard.md` | Working-name and pending-creation disclosure present. |
