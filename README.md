@@ -48,6 +48,7 @@ Arctura keeps financial flows distinct. A paid digital product or service is a c
 | `research-*.md` | Public-facing market, vendor, and payment-rail research records |
 | `arctura-*-*.md` | Operating charter and staged operating-stack documentation |
 | `docs/colorado-springs-listening-brief.md` | Cited, consent-first local-listening map; not an outreach plan, partnership announcement, or launch authorization |
+| `docs/service-desk-protocol.md` | Human-supervised inbound and outreach protocol; no connected mailbox, phone line, auto-dialer, automated send, or mass-contact authority |
 
 ## Local development
 
