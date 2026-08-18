@@ -1,12 +1,12 @@
 # Arctura Family Foundation — Operating Charter
 
-**Working Draft — legal, tax, insurance, food-safety, and payments review is required before public launch.**
+**Working Draft — “Arctura Family Foundation” is a working name only. The legal entity is pending creation and final-name selection; legal, tax, insurance, food-safety, and payments review is required before public launch.**
 
 **Provisional stewardship contact:** [stewardship@arctura.org](mailto:stewardship@arctura.org). This is the named human follow-up route for public correspondence and workflow ownership; it does not itself establish legal authority, administrator access, or consent to automated messaging.
 
 ## Mandate
 
-Arctura Family Foundation exists to convert excess food, local supply, and philanthropic capital into reliable, dignified access to nourishment. It is not an ungoverned delivery marketplace or a generic donation funnel. Its operating standard is: **clear promises, accountable partners, safe fulfillment, and auditable impact**.
+The Arctura initiative is being designed to convert excess food, local supply, and philanthropic capital into reliable, dignified access to nourishment. It is not an ungoverned delivery marketplace or a generic donation funnel. Its operating standard is: **clear promises, accountable partners, safe fulfillment, and auditable impact**.
 
 ## Three-Layer Model
 

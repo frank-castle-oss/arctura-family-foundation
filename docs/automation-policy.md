@@ -1,5 +1,7 @@
 # Arctura Family Foundation — Automation and Orchestration Policy
 
+> **Name status:** “Arctura Family Foundation” is a working name only. The legal entity is pending creation and final-name selection.
+
 ## Principle
 
 Automation exists to reduce clerical delay, not to replace accountable human judgment. Arctura will not automate eligibility decisions, recipient prioritization, food-safety acceptance, partner approval, payment authorization, public impact publication, or any delivery commitment.

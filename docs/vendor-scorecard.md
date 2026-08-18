@@ -1,6 +1,6 @@
 # Arctura Family Foundation — Provisional Vendor Scorecard
 
-**Purpose.** This scorecard narrows the research field for controlled pilots. It is **not** a procurement decision, a recommendation to contract, or a representation that any provider is connected to Arctura. Every candidate requires local legal, safeguarding, insurance, data-processing, pricing, and operational review before approval.
+**Purpose.** “Arctura Family Foundation” is a working name only; the legal entity is pending creation and final-name selection. This scorecard narrows the research field for controlled pilots. It is **not** a procurement decision, a recommendation to contract, or a representation that any provider is connected to Arctura. Every candidate requires local legal, safeguarding, insurance, data-processing, pricing, and operational review before approval.
 
 ## Evaluation method
 

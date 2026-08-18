@@ -1,6 +1,6 @@
 # Public Sharing Boundary
 
-This repository is intended to share Arctura Family Foundation’s **public operating model** and implementation direction. It is not a public database, an open recipient directory, a donor system, or an operational command center.
+This repository is intended to share the **public operating model** and implementation direction of the Arctura initiative. “Arctura Family Foundation” is a working name only; the legal entity is pending creation and final-name selection. It is not a public database, an open recipient directory, a donor system, or an operational command center.
 
 ## Included
 

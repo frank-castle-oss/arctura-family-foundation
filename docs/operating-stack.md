@@ -1,6 +1,6 @@
 # Arctura Family Foundation — Staged Operating Stack
 
-**Working recommendation.** This is a build and diligence sequence, not a procurement award or commitment to spend.
+**Working recommendation.** “Arctura Family Foundation” is a working name only; the legal entity is pending creation and final-name selection. This is a build and diligence sequence, not a procurement award or commitment to spend.
 
 ## Executive Decision
 
@@ -36,4 +36,3 @@ Arctura should establish a verified U.S. pilot cell before global expansion. The
 3. Select one support channel, one CRM, and one finance system—not competing systems.
 4. Run a controlled delivery pilot with one carrier before a technical carrier integration.
 5. Activate broad marketing only after capacity, consent, and response ownership are real.
-

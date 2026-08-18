@@ -1,5 +1,7 @@
 # Arctura Family Foundation — Visual Rights and Attribution Standard
 
+> **Name status:** “Arctura Family Foundation” is a working name only. The legal entity is pending creation and final-name selection.
+
 ## Purpose
 
 Arctura may use supplied imagery, audio, and creative files only in a way that respects identity, consent, provenance, and the public’s right not to be misled. A file being available to the project is **not** sufficient evidence that it is cleared for public publication.

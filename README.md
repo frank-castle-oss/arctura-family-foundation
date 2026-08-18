@@ -2,7 +2,7 @@
 
 > **Building accountable local infrastructure for dignified food access.**
 
-This repository shares the public operating model, implementation approach, and web platform for **Arctura Family Foundation**. It is an open reference for food-recovery partners, community organizations, funders, delivery operators, and technologists interested in more reliable food-access systems.
+This repository shares the public operating model, implementation approach, and web platform for **Arctura Family Foundation**, a working name for an initiative whose legal entity is **pending creation and final-name selection**. It is an open reference for food-recovery partners, community organizations, funders, delivery operators, and technologists interested in more reliable food-access systems.
 
 ## What this project is building
 
